@@ -13,6 +13,6 @@
     "express": "^4.16.3",
     "node-tesseract": "^0.2.7",
     "socket.io": "^2.1.1",
-    "terminal-kit": "^1.17.11"
+    "terminal-kit": "^3.0.0"
   }
 }
